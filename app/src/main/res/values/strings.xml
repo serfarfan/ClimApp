@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ClimApp</string>
+    <string name="api_key">f1640f18a6011b023d5e2abbddf7a94c</string>
+    <string name="lat">4.714873</string>
+    <string name="lng">-74.108520</string>
+    <string name="BaseUrl">http://api.openweathermap.org/</string>
+</resources>
